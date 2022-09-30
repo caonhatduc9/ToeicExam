@@ -1,6 +1,6 @@
 # ToeicExam
 
-Due to the increasing demand for English. There are many standards for assessing English proficiency. In particular, Toeic is often used in university environments, so we made the app.
+due to the increasing demand for English. There are many standards for assessing English proficiency. In particular, Toeic is often used in a university environment, so we have made an application for users to assess their English level.
 
 ## 📦 Installation
 
