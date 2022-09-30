@@ -1,12 +1,8 @@
 # ToeicExam
 
----
-
 Due to the increasing demand for English. There are many standards for assessing English proficiency. In particular, Toeic is often used in university environments, so we made the app.
 
 ## 📦 Installation
-
----
 
 1. Install Nodejs
    link download [https://nodejs.org/en/](https://nodejs.org/en/)
@@ -21,8 +17,6 @@ Due to the increasing demand for English. There are many standards for assessing
 5. Start browser via: [http://localhost:5000/](http://localhost:5000/)
 
 ## Features
-
----
 
 - Take mini Test
 - Take full test
